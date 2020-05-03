@@ -1,0 +1,32 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  name_surname.cpp
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\camera.h(93,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\camera.h(102,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\camera.h(117,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\camera.h(118,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\camera.h(119,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\LightSource.h(56,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\OBJ_Loader.h(654,25): warning C4018: '<': signed/unsigned mismatch
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\OBJ_Loader.h(691,22): warning C4018: '<': signed/unsigned mismatch
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\OBJ_Loader.h(697,23): warning C4018: '<': signed/unsigned mismatch
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\OBJ_Loader.h(951,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\Model.h(41,21): warning C4018: '<': signed/unsigned mismatch
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\Model.h(57,22): warning C4018: '<': signed/unsigned mismatch
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\Model.h(71,21): warning C4018: '<': signed/unsigned mismatch
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\name_surname.cpp(142,35): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\name_surname.cpp(168,41): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\name_surname.cpp(168,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\name_surname.cpp(171,41): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\name_surname.cpp(171,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\name_surname.cpp(195,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\name_surname.cpp(396,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\name_surname.cpp(398,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\name_surname.cpp(411,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\name_surname.cpp(413,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics Midterm 2\489-mt2\Mt-2\Mt-2\name_surname.cpp(453,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  1 of 1099 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Mt-2.vcxproj -> D:\Graphics Midterm 2\489-mt2\Mt-2\Release\Mt-2.exe
